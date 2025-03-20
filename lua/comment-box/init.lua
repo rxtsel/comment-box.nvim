@@ -6,8 +6,8 @@
 ---@class CommentBoxConfig
 local settings = {
   comment_style = "line", -- "line"|"block"|"auto"
-  doc_width = 80,
-  box_width = 60,
+  doc_width = 70,
+  box_width = 70,
   borders = {
     top = "─",
     bottom = "─",
